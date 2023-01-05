@@ -1,1 +1,1 @@
-# GIS for Integrated Land USe and Transport Planning
+# GIS for Integrated Land Use and Transport Planning
