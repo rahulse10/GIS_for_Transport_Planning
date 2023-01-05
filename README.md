@@ -4,6 +4,7 @@ The course focussed on exploring GIS tools that could be used to describe and as
 ## Topics
 
 | Topic | Description | Tools Used |
+| ----------- | ----------- | ----------- |
 | Network Models for Car, Pedestrian, Bike and multimodal | ----------- | ----------- |
 | Basic Network functionality | ----------- | ----------- |
 | Service area / Isochrone map | ----------- | ----------- |
