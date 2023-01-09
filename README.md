@@ -1,4 +1,4 @@
-## GIS for Integrated Land Use and Transport Planning
+# GIS for Integrated Land Use and Transport Planning
 The course focussed on exploring GIS tools that could be used to describe and assess accessibility and mobility in Urban Planning. 
 
 ## Topics
@@ -14,3 +14,6 @@ The course focussed on exploring GIS tools that could be used to describe and as
 | Location-allocation modelling | ----------- | ----------- |
 | Accessibility maps | ----------- | ----------- |
 | Raster Based Path  distance tools | ----------- | ----------- |
+
+## Note
+The work is documented [here.](https://github.com/rahulse10/GIS_for_Transport_Planning/blob/main/GIS_Work.pdf)
