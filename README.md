@@ -1,5 +1,5 @@
 # GIS for Integrated Land Use and Transport Planning
-The course focussed on exploring GIS tools that could be used to describe and assess accessibility and mobility in Urban Planning. 
+The course focussed on exploring GIS tools that could be used to describe and assess accessibility and mobility in Urban Planning.
 
 ## Topics
 
