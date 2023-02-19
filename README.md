@@ -5,9 +5,9 @@ The course focussed on exploring GIS tools that could be used to describe and as
 
 | Topic | Description | Tools Used |
 | ----------- | ----------- | ----------- |
-| Network Models for Car, Pedestrian, Bike and multimodal networks | ----------- | ----------- |
-| Network Analysis Tools | ----------- | Isochrone(Service Area) map, Closest Facility, OD Cost Matrix |
-| Vehicle Routing Problem | ----------- | ----------- |
+| Basic Network Functionality | ----------- | ----------- |
+| Network Construction | ----------- | Isochrone(Service Area) map, Closest Facility, OD Cost Matrix |
+| Constructing a transit Network | ----------- | ----------- |
 | Location-allocation modelling | ----------- | ----------- |
 | Accessibility maps | ----------- | ----------- |
 | Raster Based Path  distance tools | ----------- | ----------- |
